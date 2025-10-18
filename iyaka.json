@@ -14,13 +14,13 @@
         "order": 35
       },
       {
-        "family_name": "Work & School",
-        "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+        "family_name": "XTRA Unlimited Turbo",
+        "family_code": "9f4629df-b411-463d-aa84-bf019b2f0341",
         "is_enterprise": false,
-        "variant_name": "Work & School",
-        "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-        "option_name": "Education 2GB",
-        "order": 6
+        "migration_type": "NONE",
+        "variant_code": "887d2431-b4fc-42f1-9211-95997af88dbd",
+        "option_name": "Bundling Xtra Combo 2GB+2GB & Xtra Unlimited Turbo Standard",
+        "order": 1
       }
     ],
     "payment_for": "SHARE_PACKAGE",
@@ -44,13 +44,13 @@
         "order": 34
       },
       {
-        "family_name": "Work & School",
-        "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+        "family_name": "XTRA Unlimited Turbo",
+        "family_code": "9f4629df-b411-463d-aa84-bf019b2f0341",
         "is_enterprise": false,
-        "variant_name": "Work & School",
-        "variant_code": "5b59c55b-0dc7-4f34-a6e9-6afa233ad53b",
-        "option_name": "Education 2GB",
-        "order": 6
+        "migration_type": "NONE",
+        "variant_code": "887d2431-b4fc-42f1-9211-95997af88dbd",
+        "option_name": "Bundling Xtra Combo 2GB+2GB & Xtra Unlimited Turbo Standard",
+        "order": 1
       }
     ],
     "payment_for": "SHARE_PACKAGE",
