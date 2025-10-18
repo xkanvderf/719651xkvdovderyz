@@ -30,16 +30,16 @@
     "amount_idx": -1
   },
   {
-    "name": "Testing Bray",
+    "name": "Bebas Puas Kali Kalo Bisa",
     "price": "Rp1000",
     "detail": "Supported payment: E-wallet & QRIS.",
     "packages": [
       {
         "family_name": "Special dikotamu",
-        "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
+        "family_code": "0069ab97-3e54-41ef-87ea-807621d1922c",
         "is_enterprise": false,
         "migration_type": "NONE",
-        "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
+        "variant_code": "df0ac3ee-d810-42bb-820e-961e8c3bb6bc",
         "option_name": "Bundling Xtra Combo 2GB+2GB & Xtra Unlimited Turbo Standard",
         "order": 34
       },
