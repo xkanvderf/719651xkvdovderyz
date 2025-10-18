@@ -1,6 +1,6 @@
 [
   {
-    "name": "Xtra Combo Biasa",
+    "name": "Xtra Combo [Bisa]",
     "price": "Rp1000",
     "detail": "Supported payment: E-wallet & QRIS.",
     "packages": [
@@ -30,7 +30,7 @@
     "amount_idx": -1
   },
   {
-    "name": "Testing Bray 2",
+    "name": "Testing Bray [Bisa]",
     "price": "Rp1000",
     "detail": "Supported payment: E-wallet & QRIS.",
     "packages": [
@@ -71,7 +71,7 @@
         "migration_type": "NONE",
         "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
         "option_name": "Bundling Xtra Combo 1GB+1GB & Xtra Unlimited Turbo Standard",
-        "order": 159
+        "order": 161
       },
       {
         "family_name": "Work & School",
@@ -101,7 +101,7 @@
         "migration_type": "NONE",
         "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
         "option_name": "Bundling Xtra Combo 2GB+2GB & Xtra Unlimited Turbo Standard",
-        "order": 159
+        "order": 2
       },
       {
         "family_name": "Work & School",
@@ -131,7 +131,7 @@
         "migration_type": "NONE",
         "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
         "option_name": "Bundling Xtra Combo 2GB+2GB & Xtra Unlimited Turbo Standard",
-        "order": 127
+        "order": 163
       },
       {
         "family_name": "Work & School",
@@ -150,7 +150,7 @@
     "amount_idx": -1
   },
   {
-    "name": "Testing Bray 6",
+    "name": "Testing Bray 6[BISA]",
     "price": "Rp1000",
     "detail": "Supported payment: E-wallet & QRIS.",
     "packages": [
@@ -191,7 +191,7 @@
         "migration_type": "NONE",
         "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
         "option_name": "Bundling Xtra Combo 2GB+2GB & Xtra Unlimited Turbo Standard",
-        "order": 1
+        "order": 150
       },
       {
         "family_name": "Work & School",
@@ -221,7 +221,7 @@
         "migration_type": "NONE",
         "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
         "option_name": "Bundling Xtra Combo 2GB+2GB & Xtra Unlimited Turbo Standard",
-        "order": 129
+        "order": 153
       },
       {
         "family_name": "Work & School",
