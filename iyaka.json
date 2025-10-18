@@ -192,12 +192,21 @@
         "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
         "option_name": "Bundling Xtra Combo 2GB+2GB & Xtra Unlimited Turbo Standard",
         "order": 150
+      },
+      {
+        "family_name": "XTRA Unlimited Turbo",
+        "family_code": "9f4629df-b411-463d-aa84-bf019b2f0341",
+        "is_enterprise": false,
+        "migration_type": "NONE",
+        "variant_code": "887d2431-b4fc-42f1-9211-95997af88dbd",
+        "option_name": "Bundling Xtra Combo 2GB+2GB & Xtra Unlimited Turbo Standard",
+        "order": 1
       }
     ],
     "payment_for": "SHARE_PACKAGE",
     "ask_overwrite": true,
     "overwrite_amount": 90750,
-    "token_confirmation_idx": -1,
+    "token_confirmation_idx": 1,
     "amount_idx": -1
   },
   {
