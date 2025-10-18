@@ -194,8 +194,8 @@
         "order": 150
       }
     ],
-    "payment_for": "BUY_PACKAGE",
-    "ask_overwrite": false,
+    "payment_for": "SHARE_PACKAGE",
+    "ask_overwrite": true,
     "overwrite_amount": 90750,
     "token_confirmation_idx": -1,
     "amount_idx": -1
