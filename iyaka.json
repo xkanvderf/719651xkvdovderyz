@@ -30,18 +30,18 @@
     "amount_idx": -1
   },
   {
-    "name": "Masa Aktif 45 Hari + 50GB*",
-    "price": "Rp1000 (refund)",
-    "detail": "Membuat masa aktif menjadi 45 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.\n\n*Bonus kuota bersama 50GB untuk kartu pengelola XL Satu Home/Fiber.",
+    "name": "Testing Bray 2",
+    "price": "Rp1000",
+    "detail": "Supported payment: E-wallet & QRIS.",
     "packages": [
       {
-        "family_name": "Kuota Bersama",
-        "family_code": "d018a3ad-172f-433c-b291-f574f4b6fbad",
+        "family_name": "Special dikotamu",
+        "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
         "is_enterprise": false,
-        "variant_name": "Kuota Bersama",
-        "variant_code": "8a5965c2-d29c-48aa-8175-0ef53745d8fa",
-        "option_name": "Kuota HP Sekeluarga 50GB",
-        "order": 2
+        "migration_type": "NONE",
+        "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
+        "option_name": "Bundling Xtra Combo 2GB+2GB & Xtra Unlimited Turbo Standard",
+        "order": 34
       },
       {
         "family_name": "Work & School",
@@ -53,10 +53,10 @@
         "order": 6
       }
     ],
-    "payment_for": "BUY_PACKAGE",
-    "ask_overwrite": false,
+    "payment_for": "SHARE_PACKAGE",
+    "ask_overwrite": true,
     "overwrite_amount": 1000,
-    "token_confirmation_idx": 0,
+    "token_confirmation_idx": 1,
     "amount_idx": -1
   },
   {
