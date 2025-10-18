@@ -1,17 +1,17 @@
 [
   {
-    "name": "Masa Aktif 30 Hari",
-    "price": "Rp1000 (refund)",
-    "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSaldo akan di-refund setelah 10-30 menit.\nPastikan metode scan QRIS support refund.\nSupported payment: E-wallet & QRIS.",
+    "name": "Bundling Xtra Combo 2GB+2GB & Testing Bray",
+    "price": "Rp1000",
+    "detail": "Supported payment: E-wallet & QRIS.",
     "packages": [
       {
-        "family_name": "Akrab",
-        "family_code": "f4fd69c7-12a4-4047-a1f2-f4072a7c543e",
+        "family_name": "Special dikotamu",
+        "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
         "is_enterprise": false,
-        "variant_name": "Akrab",
-        "variant_code": "555a091d-b1eb-43c2-925f-3da485fecf5f",
-        "option_name": "19GB for 2 Members",
-        "order": 8
+        "migration_type": "NONE",
+        "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
+        "option_name": "Bundling Xtra Combo 2GB+2GB & Xtra Unlimited Turbo Standard",
+        "order": 35
       },
       {
         "family_name": "Work & School",
@@ -23,10 +23,10 @@
         "order": 6
       }
     ],
-    "payment_for": "BUY_PACKAGE",
-    "ask_overwrite": false,
+    "payment_for": "SHARE_PACKAGE",
+    "ask_overwrite": true,
     "overwrite_amount": 1000,
-    "token_confirmation_idx": 0,
+    "token_confirmation_idx": 1,
     "amount_idx": -1
   },
   {
