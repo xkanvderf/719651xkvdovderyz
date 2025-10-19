@@ -30,19 +30,29 @@
     "amount_idx": -1
   },
   {
-    "name": "Bebas Puas Kali Kalo Bisa",
+    "name": "Test saja",
     "price": "Rp1000",
     "detail": "Supported payment: E-wallet & QRIS.",
     "packages": [
       {
-        "family_name": "Bebas Puas",
-        "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
+        "family_name": "Xtra Combo Plus",
+        "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
         "is_enterprise": false,
         "migration_type": "NONE",
-        "variant_name": "2.200/hari",
-        "variant_code": "e5cd98bb-dd3b-40c5-8a0f-04d4a2ee0672",
-        "option_name": "409MB - Rp 2200",
-        "order": 135
+        "variant_name": "Reguler",
+        "variant_code": "8862ec0a-4651-423b-b733-3a9608db34fa",
+        "option_name": "69GB",
+        "order": 19
+      },
+      {
+        "family_name": "Unlimited Turbo",
+        "family_code": "08a3b1e6-8e78-4e45-a540-b40f06871cfe",
+        "is_enterprise": false,
+        "migration_type": "NONE",
+        "variant_name": "For Xtra Combo",
+        "variant_code": "1729cd22-4f7a-44ba-898e-a157ee827220",
+        "option_name": "TikTok",
+        "order": 6
       },
       {
         "family_name": "Work & School",
@@ -58,7 +68,7 @@
     "payment_for": "BUY_PACKAGE",
     "ask_overwrite": true,
     "overwrite_amount": -1,
-    "token_confirmation_idx": 1,
+    "token_confirmation_idx": 0,
     "amount_idx": -1
   },
   {
