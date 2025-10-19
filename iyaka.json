@@ -137,13 +137,13 @@
     "detail": "Supported payment: E-wallet & QRIS.",
     "packages": [
       {
-        "family_name": "Special dikotamu",
-        "family_code": "fd0dc5d5-1c1b-4525-90b6-86ac2ee10ad0",
+        "family_name": "Voucher",
+        "family_code": "96d99f87-8963-40e4-a522-8bea86504fee",
         "is_enterprise": false,
         "migration_type": "NONE",
-        "variant_code": "537150f2-5eba-4569-8d73-7e7b5128a1ed",
-        "option_name": "Bundling Xtra Combo 2GB+2GB & Xtra Unlimited Turbo Standard",
-        "order": 163
+        "variant_code": "f6b4666c-152c-4504-8bd8-571ee42edd13",
+        "option_name": "Unlimited Turbo Basic",
+        "order": 85
       },
       {
         "family_name": "Work & School",
@@ -155,7 +155,7 @@
         "order": 6
       }
     ],
-    "payment_for": "SHARE_PACKAGE",
+    "payment_for": "BUY_PACKAGE",
     "ask_overwrite": true,
     "overwrite_amount": -1,
     "token_confirmation_idx": 1,
