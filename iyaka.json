@@ -39,9 +39,10 @@
         "family_code": "d0a349a7-0b3a-4552-bc1d-3fd9ac0a17ee",
         "is_enterprise": false,
         "migration_type": "NONE",
+        "variant_name": "2.200/hari",
         "variant_code": "e5cd98bb-dd3b-40c5-8a0f-04d4a2ee0672",
-        "option_name": "12.75GB",
-        "order": 121
+        "option_name": "409MB - Rp 2200",
+        "order": 135
       },
       {
         "family_name": "Work & School",
