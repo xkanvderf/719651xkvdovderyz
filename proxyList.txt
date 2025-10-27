@@ -1293,6 +1293,7 @@
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
 203.194.112.119,8443,ID,CV. Rumahweb Indonesia
+154.223.132.98,443,ID,Cds Global Cloud
 40.113.60.248,2053,IE,Microsoft Corporation
 40.113.60.248,8443,IE,Microsoft Corporation
 34.253.234.62,443,IE,Amazon Data Services Ireland Limited
